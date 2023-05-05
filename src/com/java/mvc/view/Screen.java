@@ -63,7 +63,7 @@ public class Screen extends JFrame {
 		txtCode.setFont(new Font("Arial", 0, 14));
 		
 		jLabel2.setFont(new Font("Arial", 0, 14));
-		jLabel2.setText("Prodct name");
+		jLabel2.setText("Product name");
 		
 		txtName.setFont(new Font("Arial", 0, 14));
 		
